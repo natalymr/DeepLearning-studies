@@ -14,11 +14,11 @@ Find an optimal learning rate for gradient descent for given batch size.
 
 * Implement gradient descent.
 * Implement gradient descent with momentum.
-* Nesterov's accelerated gradient:
-* Adam algorithm
+* Nesterov's accelerated gradient.
+* Adam algorithm.
 
 ## Second Task
 
 * Implement simple fully-convolutional neural architecture for classification. Make sure it is small enought to run on your home machine.
 * Provide dataset visulization.
-* Provide train/test split and validation
+* Provide train/test split and validation.
